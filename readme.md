@@ -1,4 +1,4 @@
-##Alguns recursos para importantes em InfoSec. 
+##  Alguns recursos para importantes em InfoSec. 
 
 - [SAST, DAST, IAST, and RASP explanation](https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/)
 - [DAST Tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
